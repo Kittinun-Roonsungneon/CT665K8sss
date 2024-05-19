@@ -21,7 +21,7 @@ spec:
     spec:
       containers:
         - name: second-node
-          image: kittitnun/node_kub
+          image: kittitnun/65130695ct665
           imagePullPolicy: Always
           livenessProbe:
             httpGet:
